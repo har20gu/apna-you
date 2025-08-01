@@ -1,3 +1,3 @@
 # apna-you
 <br>
-this is my 1st repositiry
+this is my 1 repositiry
